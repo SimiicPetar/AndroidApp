@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit6
+  m_EditorClassIdentifier: 
+  unitNumber: 6
+  unitId: bnt
+  unitLetters: 62006e007400
+  unitLetterSprites:
+  - {fileID: 21300000, guid: c76d3084d3b48df439b52583198c77f5, type: 3}
+  - {fileID: 21300000, guid: 4dd40363b04415e468f2e73ab0d93f87, type: 3}
+  - {fileID: 21300000, guid: 9455afc2e64b1d441b6c7e931429c8a4, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: bca0a2b695095a74897117347a68b86d, type: 3}
+  - {fileID: 21300000, guid: b9f90fa749879d847b1d9d46da0ad617, type: 3}
+  - {fileID: 21300000, guid: 36466c90b94a9ce44bdcbc131bf79677, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: 38ba3f861dc420246a63cefc5d0b39db, type: 3}
+  - {fileID: 21300000, guid: 0eb26eebce3b7ac4680f0135b9fc9c08, type: 3}
+  - {fileID: 21300000, guid: 3c6c2ea520393a84e80a6d80afdd99a9, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 9134bc4712007124591d009cf37e0e8c, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: bode
+    wordSound: {fileID: 8300000, guid: 89d59a32cfe15334d912e3ebb78a28c8, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: navio
+    wordSound: {fileID: 8300000, guid: f939a4e958570714a8aa8a94e9049f05, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: tambor
+    wordSound: {fileID: 8300000, guid: c4edafe65c1b273428dd209de104a335, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: bebe
+    wordSound: {fileID: 8300000, guid: 0aabaf1f3c638aa4c98abe28f13c7ab4, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: banana
+    wordSound: {fileID: 8300000, guid: 9bfd6dc579a40764584c8a0c104d2f18, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: bone
+    wordSound: {fileID: 8300000, guid: 86f9a233866af0f49b25e476ca04da6a, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: nuvem
+    wordSound: {fileID: 8300000, guid: 0a7e2b45b04fc6b4eab9e86ea1aeca42, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: noite
+    wordSound: {fileID: 8300000, guid: b7ec22b3a2deb7b4ca3f75cf6160cf1c, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: neve
+    wordSound: {fileID: 8300000, guid: 15b4d0b35593e3e4c9062d2d396eb7c6, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: tatu
+    wordSound: {fileID: 8300000, guid: 3a1519df66137c34bbaff0c6f5f5dee5, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: teto
+    wordSound: {fileID: 8300000, guid: e010d3d3ef3939d48b6d2fd10400093c, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: tiger
+    wordSound: {fileID: 8300000, guid: ea0f87b6d6b01bb4aba5148b183e7320, type: 3}
+    letterSound: {fileID: 0}

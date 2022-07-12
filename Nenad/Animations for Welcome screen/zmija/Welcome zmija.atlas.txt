@@ -1,0 +1,55 @@
+
+Welcome zmija.png
+size: 334, 508
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Welcome - Zmija donji deo glave
+  rotate: false
+  xy: 196, 374
+  size: 135, 132
+  orig: 137, 134
+  offset: 1, 1
+  index: -1
+Welcome - Zmija gornji deo glave
+  rotate: false
+  xy: 196, 276
+  size: 136, 96
+  orig: 138, 98
+  offset: 1, 1
+  index: -1
+Welcome - Zmija jezik
+  rotate: false
+  xy: 247, 128
+  size: 55, 47
+  orig: 57, 49
+  offset: 1, 1
+  index: -1
+Welcome - Zmija rep
+  rotate: true
+  xy: 196, 177
+  size: 97, 132
+  orig: 99, 134
+  offset: 1, 1
+  index: -1
+Welcome - Zmija telo 1
+  rotate: false
+  xy: 130, 2
+  size: 115, 162
+  orig: 117, 164
+  offset: 1, 1
+  index: -1
+Welcome - Zmija telo 2
+  rotate: false
+  xy: 2, 8
+  size: 126, 156
+  orig: 128, 158
+  offset: 1, 1
+  index: -1
+Welcome - Zmija vrat
+  rotate: false
+  xy: 2, 166
+  size: 192, 340
+  orig: 194, 342
+  offset: 1, 1
+  index: -1

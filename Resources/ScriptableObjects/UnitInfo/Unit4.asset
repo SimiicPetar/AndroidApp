@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit4
+  m_EditorClassIdentifier: 
+  unitNumber: 4
+  unitId: dur
+  unitLetters: 640075007200
+  unitLetterSprites:
+  - {fileID: 21300000, guid: 86bbf7f73284d5549aba1b922986090a, type: 3}
+  - {fileID: 21300000, guid: 84733309e6b2f0242a981543a095bf8b, type: 3}
+  - {fileID: 21300000, guid: 6a2daf32865fe36439a3672b8f5ebfe9, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: 4b842f1dc8e674f42afb6a8ffd0490b1, type: 3}
+  - {fileID: 21300000, guid: 4a79a9af4608d6c46ab4684cc1fa9730, type: 3}
+  - {fileID: 21300000, guid: 5fe0304f7b27e5d4f9ea9c313ebd821e, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: 47cee859e23b8dd45b6cee0eb96c06ec, type: 3}
+  - {fileID: 21300000, guid: 170c94938a9f3cc4897a9f82d487cd58, type: 3}
+  - {fileID: 21300000, guid: bab6ef00b447bd54da2e1e6ee4f4379e, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 0229236b3c1a1694da5f6f5a77def6d0, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: dedo
+    wordSound: {fileID: 8300000, guid: 75811606dee4b0e4989cde549f8135bc, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: urso
+    wordSound: {fileID: 8300000, guid: 7e35f3a64dbd5fe48a8194b2f45c503a, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: rato
+    wordSound: {fileID: 8300000, guid: ad352a974acb93d4a8f5ac5b6c73b4e1, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: rede
+    wordSound: {fileID: 8300000, guid: 828e4c1b06ed7414e96f956de1ee9408, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: rua
+    wordSound: {fileID: 8300000, guid: 07b96c82538490246be4e184f4567528, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: roda
+    wordSound: {fileID: 8300000, guid: cc1ad4b69abb14b41afb64881397f00a, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: dado
+    wordSound: {fileID: 8300000, guid: bc5319f73cc70e64ebf811244cc76653, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: domino
+    wordSound: {fileID: 8300000, guid: b238a0e342930d543900af1ba8c9175c, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: dois
+    wordSound: {fileID: 8300000, guid: 9fb8bf33530aa014aaeb258f6ee2264a, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: uvas
+    wordSound: {fileID: 8300000, guid: 1a996f76ab28ecd4096b03c9e10c787a, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: unhas
+    wordSound: {fileID: 8300000, guid: 06cea4496ce233d4a993f60b4d41b413, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: urubu
+    wordSound: {fileID: 8300000, guid: 1fb74a289e6f0874a93a0306f7bf6853, type: 3}
+    letterSound: {fileID: 0}

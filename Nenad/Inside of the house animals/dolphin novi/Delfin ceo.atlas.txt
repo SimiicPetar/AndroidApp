@@ -1,0 +1,27 @@
+
+Delfin ceo.png
+size: 613, 177
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Delfin - kljun
+  rotate: false
+  xy: 516, 38
+  size: 95, 47
+  orig: 97, 49
+  offset: 1, 1
+  index: -1
+Delfin - peraje
+  rotate: false
+  xy: 516, 87
+  size: 80, 88
+  orig: 82, 90
+  offset: 1, 1
+  index: -1
+Delfin - telo
+  rotate: false
+  xy: 2, 2
+  size: 512, 173
+  orig: 514, 175
+  offset: 1, 1
+  index: -1

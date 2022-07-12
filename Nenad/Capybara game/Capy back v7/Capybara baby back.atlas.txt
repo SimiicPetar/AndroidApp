@@ -1,0 +1,55 @@
+
+Capybara baby back.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cap baby D leg
+  rotate: false
+  xy: 217, 33
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Cap baby L ear
+  rotate: false
+  xy: 183, 49
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Cap baby L leg
+  rotate: true
+  xy: 183, 2
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Cap baby R ear
+  rotate: true
+  xy: 183, 34
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Cap baby bottom
+  rotate: false
+  xy: 2, 5
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+Cap baby head
+  rotate: false
+  xy: 110, 3
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Capy baby shadow
+  rotate: false
+  xy: 110, 76
+  size: 105, 23
+  orig: 105, 23
+  offset: 0, 0
+  index: -1

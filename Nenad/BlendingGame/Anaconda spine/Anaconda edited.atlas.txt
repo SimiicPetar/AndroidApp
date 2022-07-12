@@ -1,0 +1,48 @@
+
+Anaconda edited.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anaconda body
+  rotate: false
+  xy: 245, 99
+  size: 702, 106
+  orig: 703, 106
+  offset: 1, 0
+  index: -1
+Anaconda chick
+  rotate: false
+  xy: 51, 16
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Anaconda head
+  rotate: false
+  xy: 2, 48
+  size: 241, 157
+  orig: 241, 157
+  offset: 0, 0
+  index: -1
+Anaconda lip
+  rotate: true
+  xy: 2, 7
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Anaconda mouth
+  rotate: false
+  xy: 245, 2
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+Anaconda tongue
+  rotate: true
+  xy: 949, 74
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1

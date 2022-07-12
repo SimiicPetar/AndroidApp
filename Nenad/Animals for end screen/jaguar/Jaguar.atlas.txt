@@ -1,0 +1,27 @@
+
+Jaguar.png
+size: 414, 368
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Jaguar - glava
+  rotate: false
+  xy: 251, 267
+  size: 102, 101
+  orig: 104, 103
+  offset: 1, 1
+  index: -1
+Jaguar - rep
+  rotate: true
+  xy: 2, 303
+  size: 65, 247
+  orig: 67, 249
+  offset: 1, 1
+  index: -1
+Jaguar - telo
+  rotate: false
+  xy: 2, 4
+  size: 410, 261
+  orig: 413, 263
+  offset: 2, 1
+  index: -1

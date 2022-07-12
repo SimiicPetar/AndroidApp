@@ -1,0 +1,195 @@
+
+Welcome Lala.png
+size: 1979, 623
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+LALA beak
+  rotate: true
+  xy: 115, 6
+  size: 113, 202
+  orig: 115, 204
+  offset: 1, 1
+  index: -1
+LALA blink 1
+  rotate: false
+  xy: 1620, 370
+  size: 110, 49
+  orig: 112, 52
+  offset: 1, 2
+  index: -1
+LALA blink 2
+  rotate: false
+  xy: 1533, 3
+  size: 111, 66
+  orig: 113, 68
+  offset: 1, 1
+  index: -1
+LALA blink 3
+  rotate: false
+  xy: 654, 47
+  size: 111, 112
+  orig: 113, 114
+  offset: 1, 1
+  index: -1
+LALA body
+  rotate: false
+  xy: 2, 121
+  size: 302, 500
+  orig: 304, 502
+  offset: 1, 1
+  index: -1
+LALA eye
+  rotate: false
+  xy: 2, 2
+  size: 111, 117
+  orig: 113, 119
+  offset: 1, 1
+  index: -1
+LALA hair 1
+  rotate: true
+  xy: 1152, 265
+  size: 35, 24
+  orig: 37, 26
+  offset: 1, 1
+  index: -1
+LALA hair 2
+  rotate: true
+  xy: 1121, 263
+  size: 37, 29
+  orig: 39, 32
+  offset: 1, 1
+  index: -1
+LALA hair 3
+  rotate: false
+  xy: 1087, 261
+  size: 32, 39
+  orig: 34, 41
+  offset: 1, 1
+  index: -1
+LALA head
+  rotate: true
+  xy: 984, 23
+  size: 235, 279
+  orig: 237, 281
+  offset: 1, 1
+  index: -1
+LALA left claw
+  rotate: false
+  xy: 1646, 5
+  size: 57, 64
+  orig: 59, 66
+  offset: 1, 1
+  index: -1
+LALA left wing 1
+  rotate: true
+  xy: 1546, 421
+  size: 200, 194
+  orig: 202, 196
+  offset: 1, 1
+  index: -1
+LALA left wing 2
+  rotate: true
+  xy: 1757, 420
+  size: 201, 220
+  orig: 203, 223
+  offset: 1, 2
+  index: -1
+LALA left wing 3
+  rotate: false
+  xy: 1533, 71
+  size: 222, 268
+  orig: 224, 270
+  offset: 1, 1
+  index: -1
+LALA mouth
+  rotate: true
+  xy: 594, 161
+  size: 93, 217
+  orig: 95, 219
+  offset: 1, 1
+  index: -1
+LALA pupil
+  rotate: false
+  xy: 1546, 346
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1
+LALA right claw
+  rotate: false
+  xy: 1705, 10
+  size: 47, 59
+  orig: 49, 62
+  offset: 1, 1
+  index: -1
+LALA right wing - fingers
+  rotate: false
+  xy: 306, 152
+  size: 286, 469
+  orig: 288, 471
+  offset: 1, 1
+  index: -1
+LALA right wing - wing
+  rotate: false
+  xy: 1383, 341
+  size: 161, 280
+  orig: 163, 283
+  offset: 1, 2
+  index: -1
+LALA stick
+  rotate: false
+  xy: 319, 2
+  size: 333, 148
+  orig: 336, 150
+  offset: 1, 1
+  index: -1
+LALA tail
+  rotate: false
+  xy: 856, 260
+  size: 229, 361
+  orig: 231, 363
+  offset: 1, 1
+  index: -1
+LALA th up - fingers
+  rotate: false
+  xy: 813, 14
+  size: 169, 240
+  orig: 172, 242
+  offset: 1, 1
+  index: -1
+LALA th up - point finger
+  rotate: true
+  xy: 1265, 20
+  size: 280, 266
+  orig: 282, 268
+  offset: 1, 1
+  index: -1
+LALA th up - thumb
+  rotate: false
+  xy: 594, 256
+  size: 260, 365
+  orig: 262, 367
+  offset: 1, 1
+  index: -1
+LALA th up - wing
+  rotate: false
+  xy: 1087, 302
+  size: 294, 319
+  orig: 296, 321
+  offset: 1, 1
+  index: -1
+Lala - D krilo
+  rotate: false
+  xy: 1757, 232
+  size: 219, 186
+  orig: 221, 188
+  offset: 1, 1
+  index: -1
+Lala - L krilo
+  rotate: false
+  xy: 1757, 44
+  size: 218, 186
+  orig: 220, 188
+  offset: 1, 1
+  index: -1

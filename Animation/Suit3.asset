@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 776ebbac9372bd642ade2c8d78bba4e1, type: 3}
+  m_Name: Suit3
+  m_EditorClassIdentifier: 
+  HatSlotName: Hat 1
+  SuitSlotName: Suit 3
+  LArmSlotName: Suit 3 L sleeve
+  RArmSlotName: Suit 3 R sleeve
+  LForearmSlotName: 
+  RForearmSlotName: 
+  RThighSlotName: Suit 3 R trouser 1
+  LThighSlotName: Suit 3 L trouser 1
+  LLegSlotName: Suit 3 L trouser 2
+  RLegSlotName: Suit 3 R trouser 2

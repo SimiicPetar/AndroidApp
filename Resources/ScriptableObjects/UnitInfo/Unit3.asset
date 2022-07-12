@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit3
+  m_EditorClassIdentifier: 
+  unitNumber: 3
+  unitId: vip
+  unitLetters: 760069007000
+  unitLetterSprites:
+  - {fileID: 21300000, guid: 1ef828f10871c044d947cd908c149342, type: 3}
+  - {fileID: 21300000, guid: 6901036da379ae04f90bb786f0dcde02, type: 3}
+  - {fileID: 21300000, guid: 0b1efb7ca65ed754dad1f4e7b923356d, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: 25c4dcbc89531b145a2511b459bd64a6, type: 3}
+  - {fileID: 21300000, guid: 2ecc31e1101fd9e4f96b3aee5e9231a2, type: 3}
+  - {fileID: 21300000, guid: 51ef849caa2da8241b55ec130d6efe91, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: 507fdfcf864a84944800a003794f372f, type: 3}
+  - {fileID: 21300000, guid: a3752fbddcecdf24582f1c72b680fe81, type: 3}
+  - {fileID: 21300000, guid: d0e0de4ab359fdc4382fa3230ce0966b, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 38c543fdd1a9f8a4db8bf17faad8dc35, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: vela
+    wordSound: {fileID: 8300000, guid: dbbfaae01e4cb1544bfca4611914aafa, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: ilha
+    wordSound: {fileID: 8300000, guid: 32e73f322243ae640871b3c239d38bb9, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: pirata
+    wordSound: {fileID: 8300000, guid: 921156f7d43605c429d8b61d166fea82, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: irmaos
+    wordSound: {fileID: 8300000, guid: 2dc2a960be31ba64ba8d5e00a223feb2, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: ideia
+    wordSound: {fileID: 8300000, guid: 43979b4f7469f124faecd6c206ba933b, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: iglu
+    wordSound: {fileID: 8300000, guid: f97bac68c9cfa7744badabae6ff96685, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: pato
+    wordSound: {fileID: 8300000, guid: d3ab0ead79320634ebb3b8d1d25bc98e, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: pipoca
+    wordSound: {fileID: 8300000, guid: b33addb90720caf47975f5fe02f5c18b, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: pedra
+    wordSound: {fileID: 8300000, guid: a86ec9e3182faea4b8e8933e17a8ae46, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: vovo
+    wordSound: {fileID: 8300000, guid: 3ad0016ed320cca409e8c516b6f0c9e4, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: vaso
+    wordSound: {fileID: 8300000, guid: 3b170ede0faf0ed43be9f0127983d661, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: violino
+    wordSound: {fileID: 8300000, guid: 160625e290fd29849ada7712d2917166, type: 3}
+    letterSound: {fileID: 0}

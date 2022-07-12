@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c65e1876d49d6e4cb5436e530ad7898, type: 3}
+  m_Name: HowToPlayLetterMachine
+  m_EditorClassIdentifier: 
+  ScreenshotSprite: {fileID: 21300000, guid: 0c6a835d597f48846828bb8bb8e16ee2, type: 3}
+  HowToPlayText: 'Toque no tatu para ver as letras rodando.\nEscute o som de cada
+    letra individualmente, em seguida, escute a palavra e veja a imagem. '
+  TitleOfTheExplanation: Jogo do buraco do tatu

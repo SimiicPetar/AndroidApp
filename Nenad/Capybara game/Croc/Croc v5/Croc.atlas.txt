@@ -1,0 +1,90 @@
+
+Croc.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Croc L eye
+  rotate: false
+  xy: 378, 30
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Croc R eye
+  rotate: false
+  xy: 378, 30
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Croc blink 1
+  rotate: false
+  xy: 354, 29
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Croc blink 2
+  rotate: true
+  xy: 354, 5
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Croc blink 3
+  rotate: false
+  xy: 309, 55
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Croc blink 4
+  rotate: false
+  xy: 354, 54
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Croc head 2
+  rotate: false
+  xy: 309, 82
+  size: 120, 50
+  orig: 121, 50
+  offset: 0, 0
+  index: -1
+Croc mounth shadow
+  rotate: false
+  xy: 192, 10
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+Croc mouth
+  rotate: false
+  xy: 2, 2
+  size: 188, 130
+  orig: 189, 130
+  offset: 1, 0
+  index: -1
+Croc nose 1
+  rotate: false
+  xy: 327, 45
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Croc nose 2
+  rotate: false
+  xy: 309, 42
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Croc teeth
+  rotate: false
+  xy: 192, 33
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1

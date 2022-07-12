@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c65e1876d49d6e4cb5436e530ad7898, type: 3}
+  m_Name: HowToParty
+  m_EditorClassIdentifier: 
+  ScreenshotSprite: {fileID: 21300000, guid: ef1b9bfc0c405b84cbcc89f8b810c7cc, type: 3}
+  HowToPlayText: "Complete todos os  jogos das sete  casas para ver o   jogador(a) 
+    dan\xE7ando.\\nToque no bot\xE3o  (add the icon  \u201Eplay\u201C) para rever
+    a  festa da Lala  quantas vezes  quiser."
+  TitleOfTheExplanation: A festa da Lala

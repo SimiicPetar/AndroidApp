@@ -1,0 +1,13 @@
+
+Capibara.png
+size: 84, 92
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+capybara
+  rotate: false
+  xy: 2, 2
+  size: 80, 88
+  orig: 82, 91
+  offset: 1, 1
+  index: -1

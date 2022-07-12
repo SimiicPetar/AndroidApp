@@ -1,0 +1,62 @@
+
+Vuk.png
+size: 553, 287
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Vuk - Zadnja L noga
+  rotate: true
+  xy: 327, 196
+  size: 89, 216
+  orig: 91, 218
+  offset: 1, 1
+  index: -1
+Vuk - glava
+  rotate: true
+  xy: 418, 78
+  size: 116, 133
+  orig: 118, 135
+  offset: 1, 1
+  index: -1
+Vuk - prednja D noga 1
+  rotate: true
+  xy: 327, 6
+  size: 44, 140
+  orig: 46, 142
+  offset: 1, 1
+  index: -1
+Vuk - prednja D noga 2
+  rotate: true
+  xy: 462, 55
+  size: 21, 41
+  orig: 24, 43
+  offset: 2, 1
+  index: -1
+Vuk - prednja D noga 3
+  rotate: false
+  xy: 418, 54
+  size: 42, 22
+  orig: 44, 24
+  offset: 1, 1
+  index: -1
+Vuk - rep
+  rotate: false
+  xy: 327, 52
+  size: 89, 142
+  orig: 91, 144
+  offset: 1, 1
+  index: -1
+Vuk - telo
+  rotate: true
+  xy: 2, 2
+  size: 283, 323
+  orig: 285, 325
+  offset: 1, 1
+  index: -1
+Vuk - usta
+  rotate: true
+  xy: 505, 39
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1

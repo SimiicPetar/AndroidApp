@@ -1,0 +1,482 @@
+
+Avatar.png
+size: 1615, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Avatar - L arm
+  rotate: true
+  xy: 1523, 62
+  size: 48, 73
+  orig: 50, 75
+  offset: 1, 1
+  index: -1
+Avatar - L cheek
+  rotate: true
+  xy: 1325, 79
+  size: 44, 19
+  orig: 46, 21
+  offset: 1, 1
+  index: -1
+Avatar - R cheek
+  rotate: true
+  xy: 1325, 79
+  size: 44, 19
+  orig: 46, 21
+  offset: 1, 1
+  index: -1
+Avatar - L ear
+  rotate: true
+  xy: 1564, 189
+  size: 27, 36
+  orig: 29, 38
+  offset: 1, 1
+  index: -1
+Avatar - L ear hole
+  rotate: false
+  xy: 832, 10
+  size: 9, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+Avatar - L eye
+  rotate: false
+  xy: 968, 4
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Avatar - L eyebrow
+  rotate: false
+  xy: 1071, 14
+  size: 37, 15
+  orig: 39, 17
+  offset: 1, 1
+  index: -1
+Avatar - L forearm
+  rotate: true
+  xy: 1503, 185
+  size: 31, 59
+  orig: 33, 61
+  offset: 1, 1
+  index: -1
+Avatar - L hand
+  rotate: true
+  xy: 808, 95
+  size: 24, 32
+  orig: 26, 34
+  offset: 1, 1
+  index: -1
+Avatar - L leg
+  rotate: true
+  xy: 1484, 14
+  size: 34, 51
+  orig: 36, 53
+  offset: 1, 1
+  index: -1
+Avatar - L shoe
+  rotate: true
+  xy: 808, 168
+  size: 50, 35
+  orig: 52, 38
+  offset: 1, 1
+  index: -1
+Avatar - L thigh
+  rotate: false
+  xy: 1559, 408
+  size: 53, 57
+  orig: 55, 59
+  offset: 1, 1
+  index: -1
+Avatar - R arm
+  rotate: true
+  xy: 847, 4
+  size: 41, 72
+  orig: 43, 74
+  offset: 1, 1
+  index: -1
+Avatar - R ear
+  rotate: false
+  xy: 820, 56
+  size: 26, 37
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+Avatar - R ear hole
+  rotate: false
+  xy: 820, 10
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+Avatar - R eye
+  rotate: false
+  xy: 1441, 7
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Avatar - R eyebrow
+  rotate: true
+  xy: 1325, 39
+  size: 38, 15
+  orig: 40, 17
+  offset: 1, 1
+  index: -1
+Avatar - R forearm
+  rotate: false
+  xy: 1577, 128
+  size: 31, 59
+  orig: 33, 61
+  offset: 1, 1
+  index: -1
+Avatar - R hand
+  rotate: false
+  xy: 820, 22
+  size: 25, 32
+  orig: 27, 34
+  offset: 1, 1
+  index: -1
+Avatar - R leg
+  rotate: false
+  xy: 250, 25
+  size: 34, 51
+  orig: 36, 53
+  offset: 1, 1
+  index: -1
+Avatar - R shoe
+  rotate: true
+  xy: 808, 220
+  size: 51, 35
+  orig: 53, 37
+  offset: 1, 1
+  index: -1
+Avatar - R thigh
+  rotate: false
+  xy: 468, 62
+  size: 56, 58
+  orig: 58, 60
+  offset: 1, 1
+  index: -1
+Avatar - body
+  rotate: true
+  xy: 1161, 6
+  size: 117, 162
+  orig: 119, 164
+  offset: 1, 1
+  index: -1
+Avatar - head
+  rotate: false
+  xy: 609, 324
+  size: 237, 199
+  orig: 239, 201
+  offset: 1, 1
+  index: -1
+Avatar - mouth
+  rotate: true
+  xy: 1325, 7
+  size: 30, 15
+  orig: 32, 17
+  offset: 1, 1
+  index: -1
+Avatar - neck
+  rotate: false
+  xy: 526, 16
+  size: 46, 31
+  orig: 48, 33
+  offset: 1, 1
+  index: -1
+Avatar - nose
+  rotate: true
+  xy: 1342, 53
+  size: 24, 6
+  orig: 26, 8
+  offset: 1, 1
+  index: -1
+Haircut 1
+  rotate: true
+  xy: 1012, 87
+  size: 254, 147
+  orig: 256, 149
+  offset: 1, 1
+  index: -1
+Haircut 2
+  rotate: true
+  xy: 848, 47
+  size: 294, 162
+  orig: 296, 164
+  offset: 1, 1
+  index: -1
+Haircut 3
+  rotate: false
+  xy: 307, 260
+  size: 300, 263
+  orig: 302, 265
+  offset: 1, 1
+  index: -1
+Haircut 4
+  rotate: false
+  xy: 307, 122
+  size: 247, 136
+  orig: 249, 138
+  offset: 1, 1
+  index: -1
+Haircut 5
+  rotate: true
+  xy: 609, 75
+  size: 247, 156
+  orig: 249, 158
+  offset: 1, 1
+  index: -1
+Haircut 6
+  rotate: false
+  xy: 2, 252
+  size: 303, 271
+  orig: 305, 273
+  offset: 1, 1
+  index: -1
+Haircut adds
+  rotate: true
+  xy: 767, 95
+  size: 227, 39
+  orig: 229, 41
+  offset: 1, 1
+  index: -1
+Hat 1
+  rotate: true
+  xy: 1350, 180
+  size: 343, 151
+  orig: 346, 153
+  offset: 1, 1
+  index: -1
+Hat 2
+  rotate: false
+  xy: 848, 343
+  size: 336, 180
+  orig: 338, 182
+  offset: 1, 1
+  index: -1
+Hat 3
+  rotate: true
+  xy: 1186, 125
+  size: 398, 162
+  orig: 401, 164
+  offset: 2, 1
+  index: -1
+Suit 1
+  rotate: false
+  xy: 179, 78
+  size: 116, 172
+  orig: 118, 174
+  offset: 1, 1
+  index: -1
+Suit 1 L sleeve
+  rotate: false
+  xy: 767, 17
+  size: 51, 76
+  orig: 53, 78
+  offset: 1, 1
+  index: -1
+Suit 1 L trouser
+  rotate: true
+  xy: 584, 18
+  size: 55, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+Suit 1 R sleeve
+  rotate: false
+  xy: 1558, 273
+  size: 52, 75
+  orig: 54, 77
+  offset: 1, 1
+  index: -1
+Suit 1 R trouser
+  rotate: true
+  xy: 647, 18
+  size: 55, 60
+  orig: 57, 62
+  offset: 1, 1
+  index: -1
+Suit 2
+  rotate: true
+  xy: 2, 129
+  size: 121, 175
+  orig: 123, 177
+  offset: 1, 1
+  index: -1
+Suit 2 L sleeve
+  rotate: true
+  xy: 1071, 31
+  size: 54, 75
+  orig: 56, 77
+  offset: 1, 1
+  index: -1
+Suit 2 L trouser
+  rotate: false
+  xy: 1012, 28
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+Suit 2 R sleeve
+  rotate: true
+  xy: 1503, 218
+  size: 53, 74
+  orig: 55, 76
+  offset: 1, 1
+  index: -1
+Suit 2 R trouser
+  rotate: false
+  xy: 526, 49
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+Suit 3
+  rotate: true
+  xy: 297, 4
+  size: 116, 169
+  orig: 118, 172
+  offset: 1, 2
+  index: -1
+Suit 3 L sleeve
+  rotate: false
+  xy: 1503, 273
+  size: 53, 75
+  orig: 56, 77
+  offset: 2, 1
+  index: -1
+Suit 3 L trouser 1
+  rotate: false
+  xy: 1560, 470
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Suit 3 L trouser 2
+  rotate: false
+  xy: 1392, 4
+  size: 47, 44
+  orig: 49, 46
+  offset: 1, 1
+  index: -1
+Suit 3 R sleeve
+  rotate: false
+  xy: 556, 185
+  size: 49, 73
+  orig: 51, 75
+  offset: 1, 1
+  index: -1
+Suit 3 R trouser 1
+  rotate: false
+  xy: 1503, 467
+  size: 55, 56
+  orig: 57, 58
+  offset: 1, 1
+  index: -1
+Suit 3 R trouser 2
+  rotate: false
+  xy: 921, 4
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1
+Suit 4
+  rotate: true
+  xy: 1350, 50
+  size: 128, 171
+  orig: 130, 173
+  offset: 1, 1
+  index: -1
+Suit 4 L sleeve 1
+  rotate: false
+  xy: 556, 107
+  size: 48, 76
+  orig: 51, 78
+  offset: 1, 1
+  index: -1
+Suit 4 L sleeve 2
+  rotate: false
+  xy: 808, 121
+  size: 35, 45
+  orig: 37, 47
+  offset: 1, 1
+  index: -1
+Suit 4 L trouser 1
+  rotate: false
+  xy: 1503, 407
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+Suit 4 L trouser 2
+  rotate: true
+  xy: 1559, 360
+  size: 46, 47
+  orig: 48, 49
+  offset: 1, 1
+  index: -1
+Suit 4 R sleeve 1
+  rotate: true
+  xy: 1537, 12
+  size: 48, 71
+  orig: 50, 74
+  offset: 1, 2
+  index: -1
+Suit 4 R sleeve 2
+  rotate: false
+  xy: 808, 273
+  size: 36, 49
+  orig: 39, 51
+  offset: 1, 1
+  index: -1
+Suit 4 R trouser 1
+  rotate: false
+  xy: 1503, 350
+  size: 54, 55
+  orig: 56, 58
+  offset: 1, 2
+  index: -1
+Suit 4 R trouser 2
+  rotate: true
+  xy: 1342, 4
+  size: 44, 48
+  orig: 46, 50
+  offset: 1, 1
+  index: -1
+Suit 5
+  rotate: true
+  xy: 2, 11
+  size: 116, 170
+  orig: 119, 173
+  offset: 1, 2
+  index: -1
+Suit 5 L sleeve
+  rotate: true
+  xy: 174, 21
+  size: 55, 74
+  orig: 57, 77
+  offset: 1, 1
+  index: -1
+Suit 5 L trouser
+  rotate: false
+  xy: 709, 16
+  size: 55, 57
+  orig: 57, 59
+  offset: 1, 1
+  index: -1
+Suit 5 R sleeve
+  rotate: false
+  xy: 1523, 112
+  size: 52, 71
+  orig: 54, 74
+  offset: 1, 1
+  index: -1
+Suit 5 R trouser
+  rotate: false
+  xy: 468, 4
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1

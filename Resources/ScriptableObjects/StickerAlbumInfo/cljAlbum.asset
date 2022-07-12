@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6952db47e2d2814ab7bda1c7b48191c, type: 3}
+  m_Name: cljAlbum
+  m_EditorClassIdentifier: 
+  LeftPageSprite: {fileID: 21300000, guid: 70c3c6500f378c74cbb099076aeb350a, type: 3}
+  LalasFriendColored: {fileID: 21300000, guid: 1bb9c470fa4864348a808fdcd0139c2e, type: 3}
+  LalasFriendEmpty: {fileID: 21300000, guid: cb8395d2b68f65c4d9679fa83165aaaa, type: 3}
+  NameOfTheHouseSprite: {fileID: 21300000, guid: fd396593ced35ed45adea90783795066, type: 3}
+  NewCardSprite: {fileID: 21300000, guid: bbda4567b1780ab4092f54e5a18c5e5c, type: 3}
+  TargetWordSprites:
+  - {fileID: 21300000, guid: 1c1ce546ee184284191b50c713593180, type: 3}
+  - {fileID: 21300000, guid: cb87b0217b6af0b4d9e3138c365422f7, type: 3}
+  - {fileID: 21300000, guid: 9b0a9c2f72e04f440a8d32336ac8d5a5, type: 3}
+  unitInfo: {fileID: 11400000, guid: 8851dd9543189514f98b1f522a8b755e, type: 2}

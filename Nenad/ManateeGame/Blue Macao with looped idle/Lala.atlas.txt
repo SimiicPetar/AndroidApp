@@ -1,0 +1,125 @@
+
+Lala.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+LALA right wing - fingers
+  rotate: false
+  xy: 107, 98
+  size: 95, 156
+  orig: 95, 156
+  offset: 0, 0
+  index: -1
+LALA right wing - wing
+  rotate: false
+  xy: 401, 160
+  size: 55, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+LALA th up - fingers
+  rotate: false
+  xy: 99, 8
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+LALA th up - point finger
+  rotate: true
+  xy: 159, 2
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+LALA th up - thumb
+  rotate: false
+  xy: 312, 132
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+LALA th up - wing
+  rotate: false
+  xy: 250, 12
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+blue macao beak
+  rotate: false
+  xy: 458, 196
+  size: 36, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+blue macao body
+  rotate: false
+  xy: 204, 120
+  size: 106, 134
+  orig: 106, 134
+  offset: 0, 0
+  index: -1
+blue macao eye
+  rotate: false
+  xy: 496, 225
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+blue macao head
+  rotate: true
+  xy: 432, 79
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+blue macao mouth
+  rotate: true
+  xy: 458, 163
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+blue macao tail
+  rotate: false
+  xy: 2, 90
+  size: 103, 164
+  orig: 103, 164
+  offset: 0, 0
+  index: -1
+blue macao wing 1
+  rotate: false
+  xy: 432, 3
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+blue macao wing 2
+  rotate: false
+  xy: 351, 12
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+blue macao wing 3
+  rotate: true
+  xy: 2, 8
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+blur macao L claw
+  rotate: true
+  xy: 204, 99
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+blur macao R claw
+  rotate: false
+  xy: 401, 133
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

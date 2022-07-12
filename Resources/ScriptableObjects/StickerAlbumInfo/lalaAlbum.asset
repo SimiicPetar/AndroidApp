@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6952db47e2d2814ab7bda1c7b48191c, type: 3}
+  m_Name: lalaAlbum
+  m_EditorClassIdentifier: 
+  LeftPageSprite: {fileID: 21300000, guid: 09ae51f25ccaa8445af5f4c250ed40c0, type: 3}
+  LalasFriendColored: {fileID: 21300000, guid: 0d80f26bc52223548ba4704042ab4fcf, type: 3}
+  LalasFriendEmpty: {fileID: 21300000, guid: 0d80f26bc52223548ba4704042ab4fcf, type: 3}
+  NameOfTheHouseSprite: {fileID: 21300000, guid: 7829ee73c186de749b0d3143ae0a6a70, type: 3}
+  NewCardSprite: {fileID: 21300000, guid: e3591d807d0f5364ca6751cc7dcb984f, type: 3}
+  TargetWordSprites:
+  - {fileID: 21300000, guid: e3591d807d0f5364ca6751cc7dcb984f, type: 3}
+  unitInfo: {fileID: 11400000, guid: 65dff6a4dd911a94a903f72ccb145168, type: 2}

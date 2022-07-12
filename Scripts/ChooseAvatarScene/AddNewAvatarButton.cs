@@ -1,0 +1,17 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
+
+public class AddNewAvatarButton : MonoBehaviour
+{
+    private void OnMouseOver()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            GetComponentInParent<AvatarSlotLogic>().GoToAvatarCreation();
+            AvatarBase.Instance.ActiveAvatarKey = GetComponentInParent<AvatarSlotLogic>().SlotID;
+        }
+    }    
+}

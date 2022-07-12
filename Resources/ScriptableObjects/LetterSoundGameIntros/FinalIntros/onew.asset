@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06ff81558499ee444974b684ac38ab9e, type: 3}
+  m_Name: onew
+  m_EditorClassIdentifier: 
+  GameChar: 111
+  introSounds:
+  - {fileID: 8300000, guid: 0c48cccf553f84a40a97fe30b878383d, type: 3}
+  - {fileID: 8300000, guid: 971f8987a5023e44abf1018a1ce1cf32, type: 3}
+  - {fileID: 8300000, guid: d1ac8895b068e164098167a96d989a41, type: 3}

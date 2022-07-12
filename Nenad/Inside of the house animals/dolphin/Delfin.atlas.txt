@@ -1,0 +1,41 @@
+
+Delfin.png
+size: 530, 316
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Delfin - kljun
+  rotate: true
+  xy: 253, 14
+  size: 86, 137
+  orig: 88, 139
+  offset: 1, 1
+  index: -1
+Delfin - peraje blize
+  rotate: false
+  xy: 406, 180
+  size: 122, 134
+  orig: 124, 136
+  offset: 1, 1
+  index: -1
+Delfin - peraje dalje
+  rotate: true
+  xy: 406, 51
+  size: 127, 96
+  orig: 129, 98
+  offset: 1, 1
+  index: -1
+Delfin - voda
+  rotate: false
+  xy: 2, 2
+  size: 249, 98
+  orig: 251, 100
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 102
+  size: 212, 402
+  orig: 214, 404
+  offset: 1, 1
+  index: -1

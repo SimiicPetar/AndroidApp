@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8887600fe60cd76469cbbee9efc18969, type: 3}
+  m_Name: SoundPack
+  m_EditorClassIdentifier: 
+  correctAnswerSound: {fileID: 8300000, guid: e96c9c6fac9aed84ab88217d54d59700, type: 3}
+  wrongAnswerSound: {fileID: 8300000, guid: 8610d1190abe23948a1435b7e0e8ad70, type: 3}
+  noStarsSound: {fileID: 8300000, guid: f4683918827a8444cae1a97a6407e41a, type: 3}
+  oneStarSound: {fileID: 8300000, guid: 9cb47e25a125b454a924c707df2f9ba5, type: 3}
+  threeAndTwoStarSound: {fileID: 8300000, guid: 7a33468dfc07ab045a267125c607d969, type: 3}
+  fourStarSound: {fileID: 8300000, guid: 4b0f7ffc7cda99041be4ad0c62ef4e0f, type: 3}

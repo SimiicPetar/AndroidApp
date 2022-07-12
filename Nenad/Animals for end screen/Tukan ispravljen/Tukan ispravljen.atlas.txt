@@ -1,0 +1,41 @@
+
+Tukan ispravljen.png
+size: 461, 167
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Tukan - glava
+  rotate: false
+  xy: 375, 29
+  size: 84, 85
+  orig: 86, 87
+  offset: 1, 1
+  index: -1
+Tukan - kljun donji
+  rotate: false
+  xy: 237, 2
+  size: 129, 34
+  orig: 132, 36
+  offset: 1, 1
+  index: -1
+Tukan - kljun gornji
+  rotate: false
+  xy: 237, 38
+  size: 136, 76
+  orig: 138, 78
+  offset: 1, 1
+  index: -1
+Tukan - noge i stap
+  rotate: false
+  xy: 237, 116
+  size: 202, 49
+  orig: 204, 51
+  offset: 1, 1
+  index: -1
+Tukan - telo
+  rotate: true
+  xy: 2, 4
+  size: 161, 233
+  orig: 163, 235
+  offset: 1, 1
+  index: -1

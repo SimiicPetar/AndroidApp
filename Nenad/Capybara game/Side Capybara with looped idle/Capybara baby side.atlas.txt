@@ -1,0 +1,97 @@
+
+Capybara baby side.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Cap baby (back) L leg
+  rotate: true
+  xy: 189, 4
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Cap baby (side) BL leg
+  rotate: true
+  xy: 123, 25
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+Cap baby (side) BR leg
+  rotate: true
+  xy: 359, 43
+  size: 83, 69
+  orig: 83, 70
+  offset: 0, 1
+  index: -1
+Cap baby (side) FL leg
+  rotate: false
+  xy: 359, 3
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Cap baby (side) FR leg
+  rotate: false
+  xy: 2, 2
+  size: 26, 16
+  orig: 26, 17
+  offset: 0, 1
+  index: -1
+Cap baby (side) body
+  rotate: true
+  xy: 189, 35
+  size: 91, 168
+  orig: 92, 170
+  offset: 1, 1
+  index: -1
+Cap baby (side) eye
+  rotate: true
+  xy: 84, 7
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Cap baby D (back) leg
+  rotate: true
+  xy: 257, 4
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+Cap baby L ear
+  rotate: true
+  xy: 30, 5
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Cap baby R ear
+  rotate: true
+  xy: 57, 5
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Cap baby bottom
+  rotate: true
+  xy: 2, 20
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+Cap baby head
+  rotate: false
+  xy: 430, 55
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Capy baby shadow
+  rotate: true
+  xy: 98, 21
+  size: 105, 23
+  orig: 105, 23
+  offset: 0, 0
+  index: -1

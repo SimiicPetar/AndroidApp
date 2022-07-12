@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit1New
+  m_EditorClassIdentifier: 
+  unitNumber: 1
+  unitId: afo
+  unitLetters: 610066006f00
+  unitLetterSprites:
+  - {fileID: 21300000, guid: 43284b09478ca014d8b77fb56f3a65f0, type: 3}
+  - {fileID: 21300000, guid: 1d112b1e2bf7bd0418a5f6df42fba33e, type: 3}
+  - {fileID: 21300000, guid: 371db38798e6ff04bb8009347689adfb, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: 027d090b83d6df24688fed48c2c3f9d2, type: 3}
+  - {fileID: 21300000, guid: 4c4c6b8b2837822469e006951071e94f, type: 3}
+  - {fileID: 21300000, guid: b533e0e8196fc4e4ca023393d02201b0, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: a6622394a277aa048ab09482fd980afa, type: 3}
+  - {fileID: 21300000, guid: 5886d77aa3a4b384b96274ea3f517935, type: 3}
+  - {fileID: 21300000, guid: 98cbf5d5302ac2a408452f44d765be51, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: dd1a7e892810caf4d8928bc966ab771c, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: AGUIA
+    wordSound: {fileID: 8300000, guid: eaeab087442e6c04d89c149a5b4849c1, type: 3}
+    letterSound: {fileID: 8300000, guid: 0da5e478a368d7a4393b724e93a7fa71, type: 3}
+  - wordText: FACA
+    wordSound: {fileID: 8300000, guid: d99963a874a69d94d98eb5cd34f576d7, type: 3}
+    letterSound: {fileID: 8300000, guid: b910a12ce2d238b488d3f36287335de8, type: 3}
+  - wordText: OCULOS
+    wordSound: {fileID: 8300000, guid: a2f8b4dadc4506849ad084641384994e, type: 3}
+    letterSound: {fileID: 8300000, guid: f1a03d24e1f39e74cae8728b2716d437, type: 3}
+  - wordText: ARCO
+    wordSound: {fileID: 8300000, guid: 294cba56af879eb4abaf240717da2bbc, type: 3}
+    letterSound: {fileID: 8300000, guid: 0da5e478a368d7a4393b724e93a7fa71, type: 3}
+  - wordText: FOLHA
+    wordSound: {fileID: 8300000, guid: f84a2e1e9278d354d8883ca8ff581557, type: 3}
+    letterSound: {fileID: 8300000, guid: b910a12ce2d238b488d3f36287335de8, type: 3}
+  - wordText: OLHOS
+    wordSound: {fileID: 8300000, guid: 3394217f07faa134297887a8f566e387, type: 3}
+    letterSound: {fileID: 8300000, guid: f1a03d24e1f39e74cae8728b2716d437, type: 3}
+  - wordText: ARVORE
+    wordSound: {fileID: 8300000, guid: f95b7075dd067e441a8adc3b1ecf9a2a, type: 3}
+    letterSound: {fileID: 8300000, guid: 0da5e478a368d7a4393b724e93a7fa71, type: 3}
+  - wordText: FOCA
+    wordSound: {fileID: 8300000, guid: cfbbc0ee65fe92a4a97057c787ff1aa2, type: 3}
+    letterSound: {fileID: 8300000, guid: b910a12ce2d238b488d3f36287335de8, type: 3}
+  - wordText: OPERA
+    wordSound: {fileID: 8300000, guid: ecaff99abbde13540ab0800dcb6652de, type: 3}
+    letterSound: {fileID: 8300000, guid: f1a03d24e1f39e74cae8728b2716d437, type: 3}
+  - wordText: ASA
+    wordSound: {fileID: 8300000, guid: 6f03d98470ee3a14182f8c78d76b0ac8, type: 3}
+    letterSound: {fileID: 8300000, guid: 0da5e478a368d7a4393b724e93a7fa71, type: 3}
+  - wordText: FUNIL
+    wordSound: {fileID: 8300000, guid: 4acf9d98279cbf84881e1cbeb94db4d9, type: 3}
+    letterSound: {fileID: 8300000, guid: b910a12ce2d238b488d3f36287335de8, type: 3}
+  - wordText: ORCA
+    wordSound: {fileID: 8300000, guid: 8a74ce606be336042af539c1a054baa6, type: 3}
+    letterSound: {fileID: 8300000, guid: f1a03d24e1f39e74cae8728b2716d437, type: 3}

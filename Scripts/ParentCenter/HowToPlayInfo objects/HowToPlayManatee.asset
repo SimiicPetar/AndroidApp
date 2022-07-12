@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c65e1876d49d6e4cb5436e530ad7898, type: 3}
+  m_Name: HowToPlayManatee
+  m_EditorClassIdentifier: 
+  ScreenshotSprite: {fileID: 21300000, guid: f181faa9c0c356541b08b2a38f645b0d, type: 3}
+  HowToPlayText: "Toque na arara azul para ouvir as palavras.\\nIdentifique o som
+    inicial em uma das tr\xEAs figuras que \xE9 igual ao par letra-som aprendido.\\nEscolha
+    uma das tr\xEAs figuras que aparecem na placa de madeira.  "
+  TitleOfTheExplanation: Jogo do peixe-boi

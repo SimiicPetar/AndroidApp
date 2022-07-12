@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6191ad5f5950134c824577e68375f54
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sassoon Infant Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e4de222ab99f7394db85144e9a677caf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

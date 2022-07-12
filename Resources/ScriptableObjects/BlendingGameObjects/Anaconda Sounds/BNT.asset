@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b9a61b7a770b34b8f8bfb60305d7b9, type: 3}
+  m_Name: BNT
+  m_EditorClassIdentifier: 
+  firstAnacondaSounds:
+    firstLetterSound: {fileID: 8300000, guid: b2e441ce4b36665429b573fd2749201a, type: 3}
+    secondLetterSound: {fileID: 8300000, guid: ab523f5d39dad044fa0bc84c91fd0469, type: 3}
+    blendedLettersSound: {fileID: 8300000, guid: f2afcb13001ca184b8f5ad932462a88c, type: 3}
+  secondAnacondaSounds:
+    firstLetterSound: {fileID: 8300000, guid: 7e92a354530bcca488bbd23e42194145, type: 3}
+    secondLetterSound: {fileID: 8300000, guid: 28c6c5ec7491a5247ae3cff20a12f6d1, type: 3}
+    blendedLettersSound: {fileID: 8300000, guid: 64d3d370734cf744caf091d996f80e05, type: 3}
+  thirdAnacondaSounds:
+    firstLetterSound: {fileID: 8300000, guid: a248f989f7c89194588bbf0ee9a027dc, type: 3}
+    secondLetterSound: {fileID: 8300000, guid: 92e0143028539014199bef6241f527cc, type: 3}
+    blendedLettersSound: {fileID: 8300000, guid: cbb768c19b2df124e98e9cfd2073d528, type: 3}

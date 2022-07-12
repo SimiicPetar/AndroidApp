@@ -1,0 +1,48 @@
+
+Welcome mravojed.png
+size: 714, 497
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Welcome - mravojed glava
+  rotate: false
+  xy: 326, 20
+  size: 157, 168
+  orig: 159, 170
+  offset: 1, 1
+  index: -1
+Welcome - mravojed jezik
+  rotate: true
+  xy: 596, 38
+  size: 150, 68
+  orig: 152, 70
+  offset: 1, 1
+  index: -1
+Welcome - mravojed krzno
+  rotate: false
+  xy: 2, 2
+  size: 322, 186
+  orig: 324, 188
+  offset: 1, 1
+  index: -1
+Welcome - mravojed noga
+  rotate: false
+  xy: 485, 34
+  size: 109, 154
+  orig: 111, 156
+  offset: 1, 1
+  index: -1
+Welcome - mravojed telo
+  rotate: false
+  xy: 2, 190
+  size: 681, 305
+  orig: 683, 307
+  offset: 1, 1
+  index: -1
+Welcome - mravojed uvo
+  rotate: false
+  xy: 685, 457
+  size: 27, 38
+  orig: 29, 40
+  offset: 1, 1
+  index: -1

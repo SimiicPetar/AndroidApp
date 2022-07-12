@@ -1,0 +1,20 @@
+
+Turtles head.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turtles head
+  rotate: false
+  xy: 2, 45
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+Turtles mouth
+  rotate: false
+  xy: 2, 2
+  size: 65, 41
+  orig: 66, 41
+  offset: 1, 0
+  index: -1

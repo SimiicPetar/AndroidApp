@@ -1,0 +1,41 @@
+
+Lenjivac.png
+size: 1176, 250
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Lenjivac - glava
+  rotate: true
+  xy: 1022, 123
+  size: 125, 144
+  orig: 127, 146
+  offset: 1, 1
+  index: -1
+Lenjivac - telo
+  rotate: true
+  xy: 766, 5
+  size: 243, 254
+  orig: 245, 256
+  offset: 1, 1
+  index: -1
+Lenjivac - usta
+  rotate: true
+  xy: 1136, 85
+  size: 36, 38
+  orig: 38, 40
+  offset: 1, 1
+  index: -1
+Lenjivac - zadnja noga
+  rotate: true
+  xy: 1022, 2
+  size: 119, 112
+  orig: 121, 114
+  offset: 1, 1
+  index: -1
+Lenjivac - zadnji deo
+  rotate: false
+  xy: 2, 38
+  size: 762, 210
+  orig: 764, 212
+  offset: 1, 1
+  index: -1

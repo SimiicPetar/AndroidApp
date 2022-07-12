@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6952db47e2d2814ab7bda1c7b48191c, type: 3}
+  m_Name: gxzAlbum
+  m_EditorClassIdentifier: 
+  LeftPageSprite: {fileID: 21300000, guid: 70c3c6500f378c74cbb099076aeb350a, type: 3}
+  LalasFriendColored: {fileID: 21300000, guid: f1ea98d1cbc01e743ac3aaf78e53492d, type: 3}
+  LalasFriendEmpty: {fileID: 21300000, guid: eff908b3b2d3a8346adc15f39ffd88ff, type: 3}
+  NameOfTheHouseSprite: {fileID: 21300000, guid: 9b608ddd4eaef38459b893fb1fd4a61f, type: 3}
+  NewCardSprite: {fileID: 21300000, guid: e680efe766c3c8b4592b9e83296b7f0a, type: 3}
+  TargetWordSprites:
+  - {fileID: 21300000, guid: 82f4f621ca5dd0a41b15a3f2e6e7a625, type: 3}
+  - {fileID: 21300000, guid: f7d4b0ddb1a72e140bac17e79a627511, type: 3}
+  - {fileID: 21300000, guid: 5c64777ae3e9eda49b8e158d0fbc61b5, type: 3}
+  unitInfo: {fileID: 11400000, guid: 1adf92d9c05773e40b861d592ec4800a, type: 2}

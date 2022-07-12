@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c65e1876d49d6e4cb5436e530ad7898, type: 3}
+  m_Name: HowToUnitInfo
+  m_EditorClassIdentifier: 
+  ScreenshotSprite: {fileID: 21300000, guid: c247c64544d75134ebe5ac28acb23d8c, type: 3}
+  HowToPlayText: "Escolha uma letra para aprender um novo par letra-som.\\nToque
+    no animal (nesse examplo, o bicho-pregui\xE7a) para conhecer um fato interessante
+    sobre um dos amigos da Lala. "
+  TitleOfTheExplanation: 'Dentro de uma casa '

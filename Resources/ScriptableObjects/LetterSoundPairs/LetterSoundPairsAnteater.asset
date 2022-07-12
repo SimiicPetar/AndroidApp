@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fd3fb4b9065124297e1ad20de9af00, type: 3}
+  m_Name: LetterSoundPairsAnteater
+  m_EditorClassIdentifier: 
+  letterSoundPairs:
+  - letter: 97
+    letterSound: {fileID: 8300000, guid: f6be8d9e36c88da40b22d036cd07c7aa, type: 3}
+  - letter: 102
+    letterSound: {fileID: 8300000, guid: ecdef09542bb7224c8d6d2a2b0308349, type: 3}
+  - letter: 111
+    letterSound: {fileID: 8300000, guid: ff0fa0d11b0014a4bbeaaab61137ea74, type: 3}
+  - letter: 115
+    letterSound: {fileID: 8300000, guid: 46baf6a60b6269448b33160c8c7a63f2, type: 3}
+  - letter: 101
+    letterSound: {fileID: 8300000, guid: dca94fe0ac77a3044ba32915e8d66bd4, type: 3}
+  - letter: 109
+    letterSound: {fileID: 8300000, guid: f3fc8c1de8bb2be46824f17280ac7014, type: 3}
+  - letter: 118
+    letterSound: {fileID: 8300000, guid: 631bd2bbfcf49844f8fd54a563b7e470, type: 3}
+  - letter: 105
+    letterSound: {fileID: 8300000, guid: 0c5ef168d395a6743be06f097989b260, type: 3}
+  - letter: 112
+    letterSound: {fileID: 8300000, guid: ff2fc11bcd7548147b51cacba21e3eb6, type: 3}
+  - letter: 100
+    letterSound: {fileID: 8300000, guid: 536f5f1b99996be47aab4b9755a1f847, type: 3}
+  - letter: 114
+    letterSound: {fileID: 8300000, guid: a4c8130e182e98c4d921e3e8c459fdca, type: 3}
+  - letter: 117
+    letterSound: {fileID: 8300000, guid: dc7281e4b2eeede40be1d342688b4854, type: 3}
+  - letter: 99
+    letterSound: {fileID: 8300000, guid: af66faff0eed82c4f95c98c7944bedbc, type: 3}
+  - letter: 106
+    letterSound: {fileID: 8300000, guid: 155fcbfcc0c997144a15e8c882619ad0, type: 3}
+  - letter: 108
+    letterSound: {fileID: 8300000, guid: 71fdbdbb9469cd04f8e73839d899a490, type: 3}
+  - letter: 98
+    letterSound: {fileID: 8300000, guid: 48b2cd3a3d7356248b9647076f8f7e79, type: 3}
+  - letter: 110
+    letterSound: {fileID: 8300000, guid: 021cc2b0625045043ab319c5c89ad564, type: 3}
+  - letter: 116
+    letterSound: {fileID: 8300000, guid: fb9ddf906d5242c4bafa5e14ce6fd410, type: 3}
+  - letter: 103
+    letterSound: {fileID: 8300000, guid: dbe610ab13d7a194696351dfdc69085f, type: 3}
+  - letter: 120
+    letterSound: {fileID: 8300000, guid: e1bb64741c8150c4f870b153c3ac9d6d, type: 3}
+  - letter: 122
+    letterSound: {fileID: 8300000, guid: c658dbff00f1805428b21130b3e9350f, type: 3}

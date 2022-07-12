@@ -1,0 +1,83 @@
+
+Capy mom.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Capy mom - L ear
+  rotate: true
+  xy: 227, 94
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Capy mom - L front leg
+  rotate: false
+  xy: 191, 97
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+Capy mom - L nose
+  rotate: true
+  xy: 244, 78
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Capy mom - R ear
+  rotate: false
+  xy: 239, 54
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Capy mom - R front leg
+  rotate: false
+  xy: 191, 31
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Capy mom - R nose
+  rotate: true
+  xy: 245, 142
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Capy mom - body
+  rotate: false
+  xy: 2, 2
+  size: 187, 181
+  orig: 187, 181
+  offset: 0, 0
+  index: -1
+Capy mom - eye
+  rotate: true
+  xy: 227, 155
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Capy mom - eyelid
+  rotate: false
+  xy: 221, 73
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Capy mom - pupil
+  rotate: false
+  xy: 221, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Capy mom - rear leg
+  rotate: true
+  xy: 227, 116
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1

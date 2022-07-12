@@ -1,0 +1,41 @@
+
+Majmun.png
+size: 428, 388
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Majmin - glava
+  rotate: true
+  xy: 290, 2
+  size: 96, 117
+  orig: 98, 120
+  offset: 1, 1
+  index: -1
+Majmin - rep
+  rotate: true
+  xy: 290, 100
+  size: 132, 98
+  orig: 134, 100
+  offset: 1, 1
+  index: -1
+Majmin - telo
+  rotate: true
+  xy: 290, 234
+  size: 152, 136
+  orig: 154, 138
+  offset: 1, 1
+  index: -1
+Majmun - drvo
+  rotate: true
+  xy: 2, 2
+  size: 384, 286
+  orig: 387, 288
+  offset: 1, 1
+  index: -1
+Majmun - usta
+  rotate: true
+  xy: 390, 197
+  size: 35, 27
+  orig: 37, 29
+  offset: 1, 1
+  index: -1

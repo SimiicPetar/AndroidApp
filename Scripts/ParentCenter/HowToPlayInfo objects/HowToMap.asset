@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c65e1876d49d6e4cb5436e530ad7898, type: 3}
+  m_Name: HowToMap
+  m_EditorClassIdentifier: 
+  ScreenshotSprite: {fileID: 21300000, guid: 4758959b01698914385b255628922dbb, type: 3}
+  HowToPlayText: "Toque no tronco que aparece desbloqueado para entrar na primeira
+    casa e dar in\xEDcio aos jogos.\\nAo completar os jogos de uma casa, toque no
+    pr\xF3ximo tronco que aparecer\xE1 desbloqueado, para continuar a jogar.\\nO
+    \xEDcone exibe o \u201E\xC1lbum de figurinhas da Lala\u201C.\\nO \xEDcone exibe
+    o relat\xF3rio com o desempenho da crian\xE7a."
+  TitleOfTheExplanation: O mapa

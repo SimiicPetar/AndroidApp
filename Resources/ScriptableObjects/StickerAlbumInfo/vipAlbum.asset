@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6952db47e2d2814ab7bda1c7b48191c, type: 3}
+  m_Name: vipAlbum
+  m_EditorClassIdentifier: 
+  LeftPageSprite: {fileID: 21300000, guid: 70c3c6500f378c74cbb099076aeb350a, type: 3}
+  LalasFriendColored: {fileID: 21300000, guid: 2264062ec9cf20f47800f0dc7379f29a, type: 3}
+  LalasFriendEmpty: {fileID: 21300000, guid: edd5cde038bbb7b48b8f0e944ddd798b, type: 3}
+  NameOfTheHouseSprite: {fileID: 21300000, guid: 7935700288ae24f49a39a39e43c6f0ef, type: 3}
+  NewCardSprite: {fileID: 21300000, guid: e2687a65320694a4e8a7bbf965cd1fe8, type: 3}
+  TargetWordSprites:
+  - {fileID: 21300000, guid: 9d8464ef680fa444da338154a7518103, type: 3}
+  - {fileID: 21300000, guid: 19851e2b9ed547845b2b185e5ed75679, type: 3}
+  - {fileID: 21300000, guid: 43bc46b6a4baebf45bb5d872d93f7ef1, type: 3}
+  unitInfo: {fileID: 11400000, guid: d661f7765ffd6534fb5714e0b5940090, type: 2}

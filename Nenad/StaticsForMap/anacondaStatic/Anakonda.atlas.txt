@@ -1,0 +1,48 @@
+
+Anakonda.png
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Anakonda - glava
+  rotate: false
+  xy: 2, 6
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Anakonda - rep
+  rotate: true
+  xy: 93, 4
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+Anakonda - telo 1
+  rotate: true
+  xy: 93, 16
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+Anakonda - telo 2
+  rotate: false
+  xy: 27, 6
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Anakonda - voda
+  rotate: false
+  xy: 2, 24
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Anakonda - vrat
+  rotate: false
+  xy: 68, 15
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aaafbeb8609c544d86027d831b6cb2f, type: 3}
+  m_Name: LalaLetterMachineInfo
+  m_EditorClassIdentifier: 
+  wordsWithAccents:
+  - sofa
+  - vovo
+  - cafe
+  - bone
+  LowercaseAccentedLetters:
+  - {fileID: 21300000, guid: d778fd409f24db14d94251f7febb7a15, type: 3}
+  - {fileID: 21300000, guid: b5f48c884a96c834bac45cce8e14d256, type: 3}
+  - {fileID: 21300000, guid: 7a0e620cca6f5b94498f39fbd33662b0, type: 3}
+  UppercaseAccentedLetters:
+  - {fileID: 21300000, guid: e52e6f1912d757d4691d32e1ac847731, type: 3}
+  - {fileID: 21300000, guid: 0c181f5a3f80fb94386569cc3e5fd186, type: 3}
+  - {fileID: 21300000, guid: 2cf34278e17a386489efda192758fa37, type: 3}
+  fallingLetterSpritesLowercase:
+  - {fileID: 21300000, guid: 43284b09478ca014d8b77fb56f3a65f0, type: 3}
+  - {fileID: 21300000, guid: c76d3084d3b48df439b52583198c77f5, type: 3}
+  - {fileID: 21300000, guid: 738de9fbd7734e44694363bca3f6da02, type: 3}
+  - {fileID: 21300000, guid: 86bbf7f73284d5549aba1b922986090a, type: 3}
+  - {fileID: 21300000, guid: 852ab123f789fb348bb226ffb944b6b0, type: 3}
+  - {fileID: 21300000, guid: 1d112b1e2bf7bd0418a5f6df42fba33e, type: 3}
+  - {fileID: 21300000, guid: 2d280457909c4444d8b7a7c325e39ee6, type: 3}
+  - {fileID: 21300000, guid: 6901036da379ae04f90bb786f0dcde02, type: 3}
+  - {fileID: 21300000, guid: a444f15e19b4e3644bf25fe342796f85, type: 3}
+  - {fileID: 21300000, guid: 02a2cd819578f114f8a88f18d2ee8582, type: 3}
+  - {fileID: 21300000, guid: 7dca81f5667513a4b920e6f99e92c432, type: 3}
+  - {fileID: 21300000, guid: 4dd40363b04415e468f2e73ab0d93f87, type: 3}
+  - {fileID: 21300000, guid: 371db38798e6ff04bb8009347689adfb, type: 3}
+  - {fileID: 21300000, guid: 0b1efb7ca65ed754dad1f4e7b923356d, type: 3}
+  - {fileID: 21300000, guid: 6a2daf32865fe36439a3672b8f5ebfe9, type: 3}
+  - {fileID: 21300000, guid: 773c48071c7237e49a59f7a603f2acd4, type: 3}
+  - {fileID: 21300000, guid: 9455afc2e64b1d441b6c7e931429c8a4, type: 3}
+  - {fileID: 21300000, guid: 84733309e6b2f0242a981543a095bf8b, type: 3}
+  - {fileID: 21300000, guid: 1ef828f10871c044d947cd908c149342, type: 3}
+  - {fileID: 21300000, guid: 2440471619a8d894ca972d7e8e05b20e, type: 3}
+  - {fileID: 21300000, guid: b92fb50d9f60321488f1c61dd1e19947, type: 3}
+  fallingLetterSpritesUppercase:
+  - {fileID: 21300000, guid: 130a2e6d98e76d84699f523904bf7787, type: 3}
+  - {fileID: 21300000, guid: 03d4b8eb25550c342ae85992fde5d973, type: 3}
+  - {fileID: 21300000, guid: 62a1afc9139e4d946943346cfa9f3ab4, type: 3}
+  - {fileID: 21300000, guid: 8597b44a680abe9479e170171c4d3588, type: 3}
+  - {fileID: 21300000, guid: 484ef9d2112bbaa438738b6a16c9080b, type: 3}
+  - {fileID: 21300000, guid: cfd655a960c6f464483348e9f10976e2, type: 3}
+  - {fileID: 21300000, guid: 9f97e51c785a1544dbe4f134857b3a13, type: 3}
+  - {fileID: 21300000, guid: 7c80567d816d8474ca43b400a62b95c2, type: 3}
+  - {fileID: 21300000, guid: 925fb40a3444c554992e240a6c9029b1, type: 3}
+  - {fileID: 21300000, guid: a366e46697511f346ba07e3bfbc91901, type: 3}
+  - {fileID: 21300000, guid: 48ed17fb8fd60644b859951e347a4ff0, type: 3}
+  - {fileID: 21300000, guid: 8f24e9b0ceb899942b8da55bab540aaa, type: 3}
+  - {fileID: 21300000, guid: 23138a442fc86d946a439f2c40d0a173, type: 3}
+  - {fileID: 21300000, guid: 8419f83ce3f17e24dafc79504b0ff349, type: 3}
+  - {fileID: 21300000, guid: b5b185d19b48aa5439294becb9bb926d, type: 3}
+  - {fileID: 21300000, guid: 94c30cf3cd6e08242acc95b654697fe0, type: 3}
+  - {fileID: 21300000, guid: 857bac915a4d0c948aef6b5541e9a2ad, type: 3}
+  - {fileID: 21300000, guid: b6885ee9cadbe094d8a979e3b46fbe3f, type: 3}
+  - {fileID: 21300000, guid: 28452c45233fac248b70a8450cba5c9b, type: 3}
+  - {fileID: 21300000, guid: b2002b35e57d5074baf30cc60a0f1aa2, type: 3}
+  - {fileID: 21300000, guid: c95d73cc6ff4d544e8d5c983a39933a2, type: 3}
+  targetWordIllustrations:
+  - {fileID: 21300000, guid: f5ada6ab98371ae45849f900ed640ac8, type: 3}
+  - {fileID: 21300000, guid: 8a993c0772129604997e7c1f5e44da9c, type: 3}
+  - {fileID: 21300000, guid: d4192cf43a35bcc409520207650bc653, type: 3}
+  - {fileID: 21300000, guid: 6289825fa0f4f7d45ace3cd4869ff602, type: 3}
+  - {fileID: 21300000, guid: e1c5891a55b64394a84fcca2dbaf5e19, type: 3}
+  - {fileID: 21300000, guid: d92016320c3f52043915daec314b28a6, type: 3}
+  - {fileID: 21300000, guid: 5528701d7f9741049bf42267d1fa88ee, type: 3}
+  - {fileID: 21300000, guid: 51fe0c533b6904c4791981befcfeda1a, type: 3}
+  - {fileID: 21300000, guid: 18b194cece6561c46bd83e7df5a96375, type: 3}
+  - {fileID: 21300000, guid: dcd3c02626394d74eb052c2325cdfadb, type: 3}
+  - {fileID: 21300000, guid: bee5dd58348f4ef419af7f6582651957, type: 3}
+  - {fileID: 21300000, guid: e09ef3daa8be85648a3ce0407490be6c, type: 3}
+  targetWordSounds:
+  - {fileID: 8300000, guid: 0e43081395a3dc9448c455675cbb5650, type: 3}
+  - {fileID: 8300000, guid: e25928c88eeff18479756bf4966eb05f, type: 3}
+  - {fileID: 8300000, guid: f1efe9b565d0a6d48a2f6c86b49b1157, type: 3}
+  - {fileID: 8300000, guid: 0a998d2f6d28c8c4a8e637c1727ed11d, type: 3}
+  - {fileID: 8300000, guid: 1e400850ba7e75a4eab9e80f53e9ae4b, type: 3}
+  - {fileID: 8300000, guid: fc2d5e07f0828c94b829af177b37db9f, type: 3}
+  - {fileID: 8300000, guid: 90f11ebf7a41e8444bda6015e7aaba67, type: 3}
+  - {fileID: 8300000, guid: bfc3e2c93d9cc0b45a79cf294ea8b38c, type: 3}
+  - {fileID: 8300000, guid: 8e557b028fdf1c848ad650fe298438e8, type: 3}
+  - {fileID: 8300000, guid: 0dc1861c488a463439265e3777596ecc, type: 3}
+  - {fileID: 8300000, guid: 63790cc9c2a7ebc47b27f0f4401e3b50, type: 3}
+  - {fileID: 8300000, guid: d72952acbeeaf574c8fa2ce76257d8e1, type: 3}
+  targetWordPhonemes:
+  - {fileID: 8300000, guid: f89334c8a2cf01742b3285026665c86c, type: 3}
+  - {fileID: 8300000, guid: a3bd9ad69b634fb45abb238f9de69128, type: 3}
+  - {fileID: 8300000, guid: 6eb9c31da10b47149bcd6a089e3590c5, type: 3}
+  - {fileID: 8300000, guid: d54a13d774e3dba43ad24695756b5f07, type: 3}
+  - {fileID: 8300000, guid: 2f9519d02926d8042931e860238ab71a, type: 3}
+  - {fileID: 8300000, guid: f42a7fd6b4c59394c885ed55a653a876, type: 3}
+  - {fileID: 8300000, guid: 708ed54da3a72604c8400beb5c7c5b19, type: 3}
+  - {fileID: 8300000, guid: 7a2c8f878c5b9dc43b7d9456cbc0b6ab, type: 3}
+  - {fileID: 8300000, guid: ff4c75049be054e4db90e7bdd63a9525, type: 3}
+  - {fileID: 8300000, guid: ca612c56e8a30da4ba2b2a418067ba2b, type: 3}
+  - {fileID: 8300000, guid: 8fff3b2db2ae7e64fa3a3068fbb1e9af, type: 3}
+  - {fileID: 8300000, guid: 9c7b21d6f696e8949aa4b82008dfd746, type: 3}
+  WordsForUnit:
+  - holeID: 1
+    wordsList:
+    - emas
+    - sofa
+    - fome
+  - holeID: 2
+    wordsList:
+    - vovo
+    - uvas
+    - roda
+  - holeID: 3
+    wordsList:
+    - lata
+    - cafe
+    - bone
+  - holeID: 4
+    wordsList:
+    - zebu
+    - gata
+    - xixi

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: LalaUnit
+  m_EditorClassIdentifier: 
+  unitNumber: 7
+  unitId: 
+  unitLetters: 7a0067007800
+  unitLetterSprites:
+  - {fileID: 21300000, guid: b92fb50d9f60321488f1c61dd1e19947, type: 3}
+  - {fileID: 21300000, guid: 2d280457909c4444d8b7a7c325e39ee6, type: 3}
+  - {fileID: 21300000, guid: 2440471619a8d894ca972d7e8e05b20e, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: 5ab8762a77b6a8345a9c5fd82f749d5f, type: 3}
+  - {fileID: 21300000, guid: c7319afb38857aa4cae3a70c6c62fc44, type: 3}
+  - {fileID: 21300000, guid: cefdc5c70de7f574eb77085accebf158, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: a64fcf6af7500004a8bf106d148d60ed, type: 3}
+  - {fileID: 21300000, guid: 48067342d7951654a82d7e65cc4b2ba1, type: 3}
+  - {fileID: 21300000, guid: 5f802d7a058db4749a968cafa4e12655, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 36fc67c7e8fa5f64ea1ba515b4bf81da, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: gorila
+    wordSound: {fileID: 8300000, guid: 8633e9221637b874386825514c6fd095, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: xarope
+    wordSound: {fileID: 8300000, guid: 0035aa82012d1da4e8e477c535932b71, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: zebra
+    wordSound: {fileID: 8300000, guid: 988c571814afb8d428f2d2e19cd4165f, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: zebu
+    wordSound: {fileID: 8300000, guid: 0dc1861c488a463439265e3777596ecc, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: zero
+    wordSound: {fileID: 8300000, guid: ebfd5222b80a6e548984d290e07f6c50, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: zorro
+    wordSound: {fileID: 8300000, guid: cc55eb64b6229a24aadc804b270572d2, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: xadrez
+    wordSound: {fileID: 8300000, guid: fe9086b9cf4dbc64d8d8b874c8d4e0c6, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: xixi
+    wordSound: {fileID: 8300000, guid: d72952acbeeaf574c8fa2ce76257d8e1, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: xerife
+    wordSound: {fileID: 8300000, guid: 203b441464a89fe4789ddfde0859bc09, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: gata
+    wordSound: {fileID: 8300000, guid: 63790cc9c2a7ebc47b27f0f4401e3b50, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: garfo
+    wordSound: {fileID: 8300000, guid: 7212434b0213d1b41b12296b7742d5d2, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: galo
+    wordSound: {fileID: 8300000, guid: bfbd9e21bdee8834b965fbd9d1aae762, type: 3}
+    letterSound: {fileID: 0}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit2
+  m_EditorClassIdentifier: 
+  unitNumber: 2
+  unitId: sem
+  unitLetters: 730065006d00
+  unitLetterSprites:
+  - {fileID: 21300000, guid: 773c48071c7237e49a59f7a603f2acd4, type: 3}
+  - {fileID: 21300000, guid: 852ab123f789fb348bb226ffb944b6b0, type: 3}
+  - {fileID: 21300000, guid: 7dca81f5667513a4b920e6f99e92c432, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: edee2e2070bed62448d726855f9e4788, type: 3}
+  - {fileID: 21300000, guid: 3ce793d33e476454eacf5af80774aa76, type: 3}
+  - {fileID: 21300000, guid: 49dcdbfceb3c66b4d8992bfd22a1ba59, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: 7fac312a96058f346a13287b20f181e1, type: 3}
+  - {fileID: 21300000, guid: de68cbd560ac517449c98ac25d0489a5, type: 3}
+  - {fileID: 21300000, guid: 4d1f1d1acd2f87c45a682b0625d80b40, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 36fc67c7e8fa5f64ea1ba515b4bf81da, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: SAPO
+    wordSound: {fileID: 8300000, guid: 87212686d28033a4fb2d8457780f0bc7, type: 3}
+    letterSound: {fileID: 8300000, guid: b8122fdcfbe0e994da1bcabaa3dfbbf5, type: 3}
+  - wordText: ELEFANTE
+    wordSound: {fileID: 8300000, guid: c777f9df12494cc47ae7961f9185599d, type: 3}
+    letterSound: {fileID: 8300000, guid: ce8324d2fd719af43b11b44d7cdb5f98, type: 3}
+  - wordText: MACACO
+    wordSound: {fileID: 8300000, guid: 11e3824870e67af4494df1a6b49c8730, type: 3}
+    letterSound: {fileID: 8300000, guid: 50b3f067fff77084487c85c78537448f, type: 3}
+  - wordText: SACO
+    wordSound: {fileID: 8300000, guid: 28b774c6edfe46c4a9762269df87164c, type: 3}
+    letterSound: {fileID: 8300000, guid: 02743978845a208499e0b3f4b5d7fa2e, type: 3}
+  - wordText: SALA
+    wordSound: {fileID: 8300000, guid: 08ceb608b2ce94c42b59acfd75a6093b, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: SAPATO
+    wordSound: {fileID: 8300000, guid: 35a7a5c4b318d9e4283ee6ecb556d957, type: 3}
+    letterSound: {fileID: 8300000, guid: 50b3f067fff77084487c85c78537448f, type: 3}
+  - wordText: MALA
+    wordSound: {fileID: 8300000, guid: 28e9254e1bda6004e8be1a6cf8b16e59, type: 3}
+    letterSound: {fileID: 8300000, guid: 02743978845a208499e0b3f4b5d7fa2e, type: 3}
+  - wordText: MAPA
+    wordSound: {fileID: 8300000, guid: 8e2b0e706d129f1439adeb14cccb2438, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: MOTO
+    wordSound: {fileID: 8300000, guid: 7e49f0d414403164c9110012fc681cea, type: 3}
+    letterSound: {fileID: 8300000, guid: 50b3f067fff77084487c85c78537448f, type: 3}
+  - wordText: EGITO
+    wordSound: {fileID: 8300000, guid: 48fee20b2c78c63469775675135eee95, type: 3}
+    letterSound: {fileID: 8300000, guid: 02743978845a208499e0b3f4b5d7fa2e, type: 3}
+  - wordText: EMA
+    wordSound: {fileID: 8300000, guid: 8050199638be0204da4c77db143688ad, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: EDUCACAO
+    wordSound: {fileID: 8300000, guid: b3c40fdd467c37b4e945720d01379b6e, type: 3}
+    letterSound: {fileID: 8300000, guid: 50b3f067fff77084487c85c78537448f, type: 3}

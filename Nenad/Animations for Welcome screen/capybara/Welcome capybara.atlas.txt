@@ -1,0 +1,27 @@
+
+Welcome capybara.png
+size: 467, 348
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Welcome - Capibara d uvo
+  rotate: false
+  xy: 433, 313
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+Welcome - Capibara l uvo
+  rotate: false
+  xy: 433, 288
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+Welcome - Capibara telo
+  rotate: false
+  xy: 2, 2
+  size: 429, 344
+  orig: 431, 346
+  offset: 1, 1
+  index: -1

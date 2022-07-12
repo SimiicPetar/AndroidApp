@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70f92f195abbee46a8935a4eb1014f0, type: 3}
+  m_Name: FWords
+  m_EditorClassIdentifier: 
+  FirstLetter: 102
+  Words:
+  - fizika
+  - fabrika
+  - frizbi
+  - faza
+  - freza
+  - folikula
+  - feder
+  wordSoundPairs:
+  - wordText: FACA
+    wordSound: {fileID: 8300000, guid: 477bd95190144f347b3f959efe8cdc5d, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: FIGO
+    wordSound: {fileID: 8300000, guid: 98aaf536eff584c47b1afdeaf4b391e1, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: FOCA
+    wordSound: {fileID: 8300000, guid: 080a4575d8574164f9826dcd9598f901, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}
+  - wordText: FUNIL
+    wordSound: {fileID: 8300000, guid: 093c85567f7557d418f5e56c4870f7c6, type: 3}
+    letterSound: {fileID: 8300000, guid: 20a41e4007280664186339207ba5c7b0, type: 3}

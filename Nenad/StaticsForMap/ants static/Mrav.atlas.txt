@@ -1,0 +1,13 @@
+
+Mrav.png
+size: 57, 35
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+mrav
+  rotate: false
+  xy: 2, 2
+  size: 53, 31
+  orig: 55, 33
+  offset: 1, 1
+  index: -1

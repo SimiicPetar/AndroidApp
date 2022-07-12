@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6dcbc5ddb7d9c49b2d2d3320966d28, type: 3}
+  m_Name: WordLetterSoundPairs
+  m_EditorClassIdentifier: 
+  wordLetterSoundPairs:
+  - letter: 97
+    WordSound: {fileID: 8300000, guid: 39d2f36279b6a114bbefa5d344810dd2, type: 3}
+    LetterSound: {fileID: 8300000, guid: 0da5e478a368d7a4393b724e93a7fa71, type: 3}
+    Image: {fileID: 21300000, guid: 55e6c414bc088ec4688c287c2a34343d, type: 3}
+  - letter: 102
+    WordSound: {fileID: 8300000, guid: 3d5fba1ff1cb1df4dab2f969439d2f3c, type: 3}
+    LetterSound: {fileID: 8300000, guid: b910a12ce2d238b488d3f36287335de8, type: 3}
+    Image: {fileID: 21300000, guid: 13378f3d251e7f344bc5e3eaf05d7a95, type: 3}
+  - letter: 111
+    WordSound: {fileID: 8300000, guid: 1f35b29b7b039cd47a608767c91464bb, type: 3}
+    LetterSound: {fileID: 8300000, guid: f1a03d24e1f39e74cae8728b2716d437, type: 3}
+    Image: {fileID: 21300000, guid: 7c825c90c6075714880b7295f93408e2, type: 3}
+  - letter: 115
+    WordSound: {fileID: 8300000, guid: de2701a314c614c4694bb821b49778a3, type: 3}
+    LetterSound: {fileID: 8300000, guid: 44f2d44c55e984747a92205d47b5d08a, type: 3}
+    Image: {fileID: 21300000, guid: 6605b49e99afea54182b683d34ef5fda, type: 3}
+  - letter: 101
+    WordSound: {fileID: 8300000, guid: 01c2833a933da344ba43abc01e4dbfb9, type: 3}
+    LetterSound: {fileID: 8300000, guid: a23988b6217e6a747acb15df75582e45, type: 3}
+    Image: {fileID: 21300000, guid: 228aaa39e92461a40bf672589b04a7a6, type: 3}
+  - letter: 109
+    WordSound: {fileID: 8300000, guid: 871a69418e4ca9840967be49b3a407d2, type: 3}
+    LetterSound: {fileID: 8300000, guid: 7b59a74a187ae3f48b61926f31dd18ec, type: 3}
+    Image: {fileID: 21300000, guid: 7ff089ee5ec37b543a77a3bd4629ceb0, type: 3}
+  - letter: 118
+    WordSound: {fileID: 8300000, guid: 504c202503741b34380fa689c6f055fc, type: 3}
+    LetterSound: {fileID: 8300000, guid: b8a94ff31cca40d47a4c5d34b8610286, type: 3}
+    Image: {fileID: 21300000, guid: 9d8464ef680fa444da338154a7518103, type: 3}
+  - letter: 105
+    WordSound: {fileID: 8300000, guid: 3491517f1573bd34fb4c3dd506e6c480, type: 3}
+    LetterSound: {fileID: 8300000, guid: 3917324a810e4fb45937a33ee6683da2, type: 3}
+    Image: {fileID: 21300000, guid: 19851e2b9ed547845b2b185e5ed75679, type: 3}
+  - letter: 112
+    WordSound: {fileID: 8300000, guid: e65703d6799219b44b887ba21b75e70d, type: 3}
+    LetterSound: {fileID: 8300000, guid: 88404b2cc74f9964c911f1d2844b7208, type: 3}
+    Image: {fileID: 21300000, guid: 43bc46b6a4baebf45bb5d872d93f7ef1, type: 3}
+  - letter: 100
+    WordSound: {fileID: 8300000, guid: 4739d3ee24a98504d997856de64b96a4, type: 3}
+    LetterSound: {fileID: 8300000, guid: c8c10c689f2ef2746b44777e1e8be8c2, type: 3}
+    Image: {fileID: 21300000, guid: 4dcd401c388a09c44af788dfe05f0c36, type: 3}
+  - letter: 117
+    WordSound: {fileID: 8300000, guid: 88720a295e302a44d97e42f1659733dd, type: 3}
+    LetterSound: {fileID: 8300000, guid: dae534b2f177e854b82fbde87eebef7e, type: 3}
+    Image: {fileID: 21300000, guid: 4c89ab6a0b23d2142927c4cee87f5b19, type: 3}
+  - letter: 114
+    WordSound: {fileID: 8300000, guid: ce2a80bcd64a0674f8b218e5afca6ab9, type: 3}
+    LetterSound: {fileID: 8300000, guid: ecf8b578674da9949a5c0a18701aa0d0, type: 3}
+    Image: {fileID: 21300000, guid: 44c9349788a3dea429e14528b3937a21, type: 3}
+  - letter: 99
+    WordSound: {fileID: 8300000, guid: c6f2d6d5d34ae9244af9f83441d006cf, type: 3}
+    LetterSound: {fileID: 8300000, guid: 4b532a04fd8ebc749a59496317d58841, type: 3}
+    Image: {fileID: 21300000, guid: 1c1ce546ee184284191b50c713593180, type: 3}
+  - letter: 106
+    WordSound: {fileID: 8300000, guid: 59532658424b4ed4ea588409513d3f6c, type: 3}
+    LetterSound: {fileID: 8300000, guid: ca18d4ce9fcf4fd4685726060ddcada4, type: 3}
+    Image: {fileID: 21300000, guid: 9b0a9c2f72e04f440a8d32336ac8d5a5, type: 3}
+  - letter: 108
+    WordSound: {fileID: 8300000, guid: 59817d6be37a65f42bce7efd5d1760e5, type: 3}
+    LetterSound: {fileID: 8300000, guid: 176fc6a3c0616874b9fb0130cd1d32ef, type: 3}
+    Image: {fileID: 21300000, guid: cb87b0217b6af0b4d9e3138c365422f7, type: 3}
+  - letter: 98
+    WordSound: {fileID: 8300000, guid: bfd251d0f58695045879622eba434cfa, type: 3}
+    LetterSound: {fileID: 8300000, guid: 1450af463a62c5d44be382eb76b8a7b4, type: 3}
+    Image: {fileID: 21300000, guid: 2e21dbfd0cd0138429d69c7f42553cc0, type: 3}
+  - letter: 110
+    WordSound: {fileID: 8300000, guid: cffac03c7ceacd146984d1341ad35735, type: 3}
+    LetterSound: {fileID: 8300000, guid: a7dba8607a7af754696c01df367e2dd2, type: 3}
+    Image: {fileID: 21300000, guid: 1184afb65c3619e4d9ef1e2697e9482a, type: 3}
+  - letter: 116
+    WordSound: {fileID: 8300000, guid: f6a1b0478d628ae4d989aed53dfc1270, type: 3}
+    LetterSound: {fileID: 8300000, guid: ff0f286cdd04118439000a90b18567e9, type: 3}
+    Image: {fileID: 21300000, guid: fb90eb6d2aafb9e4f920c66b844a7be0, type: 3}
+  - letter: 103
+    WordSound: {fileID: 8300000, guid: c68b8c767c9db6a4885ff38e62524063, type: 3}
+    LetterSound: {fileID: 8300000, guid: 42c60e55969b67245892d93c026a3a5f, type: 3}
+    Image: {fileID: 21300000, guid: 82f4f621ca5dd0a41b15a3f2e6e7a625, type: 3}
+  - letter: 120
+    WordSound: {fileID: 8300000, guid: 76338d2c055a90b4bacc9c7da35923d0, type: 3}
+    LetterSound: {fileID: 8300000, guid: 8a169ab74543c2c4ba1374eeb36f0514, type: 3}
+    Image: {fileID: 21300000, guid: f7d4b0ddb1a72e140bac17e79a627511, type: 3}
+  - letter: 122
+    WordSound: {fileID: 8300000, guid: c406a90d994764d46b359961a48218fa, type: 3}
+    LetterSound: {fileID: 8300000, guid: c53a2331d71bcda429d20fc4b5a59be7, type: 3}
+    Image: {fileID: 21300000, guid: 5c64777ae3e9eda49b8e158d0fbc61b5, type: 3}

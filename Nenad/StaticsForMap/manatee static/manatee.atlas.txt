@@ -1,0 +1,153 @@
+
+manatee.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+L eye
+  rotate: false
+  xy: 142, 26
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+L eye hole
+  rotate: true
+  xy: 127, 32
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+L eyebrow
+  rotate: true
+  xy: 142, 39
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 452, 7
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+R eye
+  rotate: false
+  xy: 158, 42
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+R eye hole
+  rotate: true
+  xy: 140, 4
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+R eyebrow
+  rotate: true
+  xy: 150, 39
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: true
+  xy: 373, 6
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+belly mark
+  rotate: false
+  xy: 659, 109
+  size: 107, 147
+  orig: 107, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 271, 68
+  size: 188, 386
+  orig: 188, 386
+  offset: 0, 0
+  index: -1
+body shadow
+  rotate: true
+  xy: 659, 22
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+chin line
+  rotate: false
+  xy: 155, 25
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+chin line left
+  rotate: true
+  xy: 106, 25
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+chin line right
+  rotate: false
+  xy: 118, 7
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 89, 14
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 6
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+nose line 1
+  rotate: false
+  xy: 89, 5
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+nose line 2
+  rotate: false
+  xy: 127, 26
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 54
+  size: 267, 202
+  orig: 267, 202
+  offset: 0, 0
+  index: -1
+water L wave
+  rotate: false
+  xy: 271, 6
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+water R wave
+  rotate: false
+  xy: 531, 10
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Anteater.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anteater FL leg
+  rotate: true
+  xy: 353, 64
+  size: 111, 137
+  orig: 111, 137
+  offset: 0, 0
+  index: -1
+Anteater L ear
+  rotate: true
+  xy: 979, 396
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Anteater R ear
+  rotate: true
+  xy: 979, 367
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Anteater R eye
+  rotate: false
+  xy: 979, 425
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Anteater RF leg
+  rotate: false
+  xy: 492, 44
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+Anteater RL leg
+  rotate: true
+  xy: 167, 72
+  size: 103, 184
+  orig: 103, 184
+  offset: 0, 0
+  index: -1
+Anteater RR leg
+  rotate: true
+  xy: 618, 143
+  size: 166, 217
+  orig: 166, 217
+  offset: 0, 0
+  index: -1
+Anteater body
+  rotate: false
+  xy: 2, 177
+  size: 614, 280
+  orig: 614, 280
+  offset: 0, 0
+  index: -1
+Anteater body fur
+  rotate: false
+  xy: 618, 311
+  size: 265, 146
+  orig: 265, 146
+  offset: 0, 0
+  index: -1
+Anteater head
+  rotate: true
+  xy: 837, 2
+  size: 145, 161
+  orig: 145, 161
+  offset: 0, 0
+  index: -1
+Anteater leaf
+  rotate: false
+  xy: 2, 54
+  size: 163, 121
+  orig: 163, 121
+  offset: 0, 0
+  index: -1
+Anteater tongue
+  rotate: true
+  xy: 885, 149
+  size: 308, 70
+  orig: 308, 70
+  offset: 0, 0
+  index: -1
+Tongue on leaf
+  rotate: false
+  xy: 957, 333
+  size: 20, 124
+  orig: 20, 124
+  offset: 0, 0
+  index: -1
+obrvica
+  rotate: false
+  xy: 979, 345
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

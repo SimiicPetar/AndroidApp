@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47789cdc11e02f24eb94f184797a4ecc, type: 3}
+  m_Name: Unit5
+  m_EditorClassIdentifier: 
+  unitNumber: 5
+  unitId: cjl
+  unitLetters: 63006a006c00
+  unitLetterSprites:
+  - {fileID: 21300000, guid: 06b1fb9be0fd81241a36730dacc6cdab, type: 3}
+  - {fileID: 21300000, guid: 5e5c3adbe8a20194087d3a48ab0f8ca6, type: 3}
+  - {fileID: 21300000, guid: 74063d8c3c7e2f14898fdd9a16952d20, type: 3}
+  capibaraLetterSprites:
+  - {fileID: 21300000, guid: 06b1fb9be0fd81241a36730dacc6cdab, type: 3}
+  - {fileID: 21300000, guid: 5e5c3adbe8a20194087d3a48ab0f8ca6, type: 3}
+  - {fileID: 21300000, guid: 74063d8c3c7e2f14898fdd9a16952d20, type: 3}
+  capibaraLetterCapitalSprites:
+  - {fileID: 21300000, guid: a9b82b9f6f68e0942a2e176fa0f27c0c, type: 3}
+  - {fileID: 21300000, guid: 5edc87efb4803484296ec0b7822b1791, type: 3}
+  - {fileID: 21300000, guid: be8380d5851f09d429cf4cf7eb55095a, type: 3}
+  LalaFriendSprite: {fileID: 21300000, guid: 8acffb8c95cce9349bf9bcf4ed961a27, type: 3}
+  wordSoundPairsCapibara:
+  - wordText: coco
+    wordSound: {fileID: 8300000, guid: e854ae140b4b3e545b5223a34b3bb143, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: joelho
+    wordSound: {fileID: 8300000, guid: 6753087fd0139bd48a5a1b1e85081e65, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: lingua
+    wordSound: {fileID: 8300000, guid: 3d198f0c39a5f094bb7c2b9331c4fce0, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: livro
+    wordSound: {fileID: 8300000, guid: 470c07a83cacb9d419c311f5b861f6e0, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: lata
+    wordSound: {fileID: 8300000, guid: 77fad90ca549cc943a4d6f9f3c9b7878, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: luva
+    wordSound: {fileID: 8300000, guid: d7daaa7e5f08d0449a9b65a7006db7be, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: jogo
+    wordSound: {fileID: 8300000, guid: f4116d6f7b016df4fa9f703544eefe17, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: jipe
+    wordSound: {fileID: 8300000, guid: df49d9b02f4ec7342a908a717d282cd6, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: judo
+    wordSound: {fileID: 8300000, guid: 5ba0e736465fdd24a91516beb4b2b97e, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: cafe
+    wordSound: {fileID: 8300000, guid: 0907c67d454decc478a11a27d6f28110, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: cola
+    wordSound: {fileID: 8300000, guid: 9c3dcb4cdd5493f4abb269f4ced05963, type: 3}
+    letterSound: {fileID: 0}
+  - wordText: casa
+    wordSound: {fileID: 8300000, guid: f8389c6563ebcad47a71c1658d1737db, type: 3}
+    letterSound: {fileID: 0}

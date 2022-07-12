@@ -1,0 +1,41 @@
+
+Prase.png
+size: 373, 218
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Prase - L uvo
+  rotate: true
+  xy: 337, 11
+  size: 36, 34
+  orig: 38, 36
+  offset: 1, 1
+  index: -1
+Prase - d uvo
+  rotate: false
+  xy: 293, 6
+  size: 42, 41
+  orig: 45, 43
+  offset: 2, 1
+  index: -1
+Prase - glava
+  rotate: false
+  xy: 244, 49
+  size: 126, 167
+  orig: 128, 169
+  offset: 1, 1
+  index: -1
+Prase - telo
+  rotate: false
+  xy: 2, 9
+  size: 240, 207
+  orig: 242, 209
+  offset: 1, 1
+  index: -1
+Prase - usta
+  rotate: false
+  xy: 244, 2
+  size: 47, 45
+  orig: 50, 47
+  offset: 1, 1
+  index: -1

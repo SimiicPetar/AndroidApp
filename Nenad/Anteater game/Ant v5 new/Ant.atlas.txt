@@ -1,0 +1,118 @@
+
+Ant.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ant L arm 1
+  rotate: false
+  xy: 594, 16
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Ant L arm 2
+  rotate: false
+  xy: 586, 31
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Ant L arm 3
+  rotate: false
+  xy: 558, 24
+  size: 18, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Ant R arm 1
+  rotate: true
+  xy: 604, 43
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Ant R arm 2
+  rotate: false
+  xy: 603, 65
+  size: 16, 18
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Ant R arm 3
+  rotate: false
+  xy: 577, 3
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Ant antenna 1
+  rotate: true
+  xy: 583, 85
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+Ant antenna 2
+  rotate: true
+  xy: 561, 84
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Ant body
+  rotate: false
+  xy: 558, 35
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Ant but
+  rotate: false
+  xy: 510, 23
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Ant head
+  rotate: false
+  xy: 510, 75
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Ant hole
+  rotate: false
+  xy: 2, 2
+  size: 341, 124
+  orig: 341, 124
+  offset: 0, 0
+  index: -1
+Ant mouth
+  rotate: true
+  xy: 586, 52
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Ant stick 1
+  rotate: true
+  xy: 510, 14
+  size: 7, 82
+  orig: 7, 82
+  offset: 0, 0
+  index: -1
+Ant stick 2
+  rotate: true
+  xy: 510, 5
+  size: 7, 65
+  orig: 7, 65
+  offset: 0, 0
+  index: -1
+Anteater leaf
+  rotate: false
+  xy: 345, 5
+  size: 163, 121
+  orig: 163, 121
+  offset: 0, 0
+  index: -1

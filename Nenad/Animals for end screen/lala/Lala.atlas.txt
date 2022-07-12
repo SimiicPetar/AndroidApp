@@ -1,0 +1,41 @@
+
+Lala.png
+size: 710, 190
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Lala - D krilo
+  rotate: false
+  xy: 2, 4
+  size: 219, 186
+  orig: 221, 188
+  offset: 1, 1
+  index: -1
+Lala - L krilo
+  rotate: false
+  xy: 223, 4
+  size: 218, 186
+  orig: 220, 188
+  offset: 1, 1
+  index: -1
+Lala - glava
+  rotate: true
+  xy: 573, 50
+  size: 140, 135
+  orig: 142, 137
+  offset: 1, 1
+  index: -1
+Lala - rep
+  rotate: false
+  xy: 573, 13
+  size: 118, 35
+  orig: 120, 37
+  offset: 1, 1
+  index: -1
+Lala - telo
+  rotate: false
+  xy: 443, 23
+  size: 128, 167
+  orig: 130, 169
+  offset: 1, 1
+  index: -1
